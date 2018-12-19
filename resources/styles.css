@@ -1,0 +1,22 @@
+/* For additional styling purposes */
+
+.jumbotron{
+  margin-bottom: 0;
+  background-color: maroon;
+  color:white;
+}
+
+.navbar{
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+.navbar-brand img{
+  height:auto;
+  width:25px;
+}
+
+footer{
+  background-color: lightgrey;
+  padding:25px;
+}
